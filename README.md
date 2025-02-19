@@ -20,7 +20,7 @@ This code uses a passwordless authentication mechanism, so you'll need to run az
 
 {
   "AzureServiceBus": {
-    "FullyQualifiedNamespace": "<YOUR-SERVICE-BUS-NAMESPACE-HERE>.servicebus.windows.net",
+    "FullyQualifiedNamespace": "YOUR-SERVICE-BUS-NAMESPACE-HERE.servicebus.windows.net",
     "QueueName": "YOUR-QUEUE-NAME-HERE"
   }
 }
